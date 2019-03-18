@@ -1,21 +1,39 @@
+.container {
+padding: 5px 20px 5px 20px;
+}
+
 h1 {
 font-family: inherit;
-font-size: 60px;
+font-size: 50px;
 font-weight:100;
 color: : #2d3c49;
-text-transform: uppercase;
-box-sizing: auto;
+text-transform: uppercase
 }
 h4 {
 text-transform: uppercase;
+font-family: inherit;
 font-size: 15px;
 color: #02b3e4;
 }
-hr {
-height: 15px;
-weight: 40px;
+.horizontal-line {
+color: #7d97ad;
 }
 .respo-img {
 width: 100%;
-height: auto; 
+height: auto;
+}
+.page-article {
+padding-top: 10px;
+text-align: center;
+}
+h3 {
+padding-top: 10px;
+font-family: inherit;
+font-weight: 50px;
+text-transform: uppercase;;
+}
+h2 {
+padding-top: 10px;
+font-family: inherit;
+color: #7d97ad;
 }
