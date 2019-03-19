@@ -1,1 +1,2 @@
-# project1_fend_udacity
+## FEND@Udacity - Project 1 ##
+# Create a portfolio page #
