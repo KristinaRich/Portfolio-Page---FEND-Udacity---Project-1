@@ -1,10 +1,10 @@
 /* Generic style rules for page font and container padding */
 .container {
-padding: 5px 20px 5px 20px;
+padding: 10px 20px 10px 20px;
 font-family: "Roboto", arial, sans-serif;
 }
 
-/* Specific ules for h1-h4 */
+/* Specific rules for h1-h4 */
 h1 {
 font-size: 50px;
 color: #2d3c49;
